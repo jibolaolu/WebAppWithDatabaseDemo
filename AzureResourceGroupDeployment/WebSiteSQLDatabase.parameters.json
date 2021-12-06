@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "eagles-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "eagles"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "Adiomowo1"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "eagles-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "eagles-sql"
     }
   }
 }
